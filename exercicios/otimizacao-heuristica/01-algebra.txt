@@ -1,0 +1,3 @@
+/pi nom_pales
+(/pi area.codarea = palestra.codarea /and  nomarea = "Banco de dados"
+( area x palestra ))
