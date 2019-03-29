@@ -1,0 +1,2 @@
+/pi nome_area
+(/pi area.codarea = palestra.codarea /and vagas > 50 (area x palestra))
