@@ -9,3 +9,6 @@ https://www.postgresql.org/docs/9.5/sql-reindex.html
 
 ### 24.3. Continuous Archiving and Point-in-Time Recovery (PITR)  
 https://www.postgresql.org/docs/9.3/continuous-archiving.html
+
+### ANALYZE  
+https://www.postgresql.org/docs/9.3/sql-analyze.html
