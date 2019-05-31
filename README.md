@@ -12,3 +12,9 @@ https://www.postgresql.org/docs/9.3/continuous-archiving.html
 
 ### ANALYZE  
 https://www.postgresql.org/docs/9.3/sql-analyze.html
+
+### pg_basebackup  
+https://www.postgresql.org/docs/9.4/app-pgbasebackup.html
+
+### 24.2. File System Level Backup  
+https://www.postgresql.org/docs/9.3/backup-file.html
