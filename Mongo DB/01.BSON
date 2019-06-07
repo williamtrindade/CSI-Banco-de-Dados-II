@@ -1,0 +1,10 @@
+db.createCollection(“pessoas”);
+db.pessoas.insert({nome: "Fulano", idade:40})
+db.pessoas.insert({nome: “Siclano", idade:30})
+db.pessoas.insert({nome: “Beltrano"})
+
+db.pessoas.find();
+
+db.pessoas.find().pretty();
+show dbs
+show collections
